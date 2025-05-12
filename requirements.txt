@@ -2,8 +2,3 @@ requests
 beautifulsoup4
 schedule
 python-dotenv
-python-dateutil
-python-requests
-python-schedule
-python-beautifulsoup4
-python-python-dotenv
