@@ -1,0 +1,32 @@
+# Python specific
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+
+# Virtual environment
+venv/
+.venv/
+env/
+.env # For local environment variables, not for Railway secrets
+
+# IDE and OS specific
+.idea/
+.vscode/
+*.DS_Store
+Thumbs.db
+
+# Application-generated state files (do not commit these)
+linkedin_mle_jobs.json
+linkedin_ds_jobs.json
+    # Add any other *.json file patterns if you add more scrapers
+    # or use a more generic pattern like:
+    # *.json
+
+    # Log files (if you ever decide to log to local files, which you currently don't)
+    # *.log
+
+    # Other local configuration or sensitive files
