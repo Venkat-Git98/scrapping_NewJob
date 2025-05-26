@@ -19,7 +19,7 @@ SCRAPER_CONFIGS = [
         "search_name": "Machine Learning Engineer"
     },
     {
-        "url": "https://www.linkedin.com/jobs/search/?currentJobId=4223224935&f_TPR=r7200&geoId=103644278&keywords=data%20scientist&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true&sortBy=R&spellCorrectionEnabled=true", # Your actual URL
+        "url": "https://www.linkedin.com/jobs/search/?keywords=Data%20Scientist&location=United%20States&geoId=103644278&f_TPR=r7200&f_E=1%2C2%2C3%2C4&position=1&pageNum=0", # Your actual URL
         "data_file": "linkedin_ds_jobs.json", # Will be created in the same dir as script
         "search_name": "Data Scientist"
     },
